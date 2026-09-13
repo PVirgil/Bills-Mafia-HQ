@@ -383,6 +383,12 @@ h1 {
   text-align: center;
 }
 
+.record-dash {
+  font-size: 0.65em;
+  margin: 0 3px;
+  vertical-align: 0.08em;
+}
+
 @media (max-width: 860px) {
   .card, .card.wide { grid-column: span 6; }
   .memory-grid { grid-template-columns: 1fr 1fr; }
