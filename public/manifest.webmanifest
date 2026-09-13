@@ -6,12 +6,12 @@
   "display": "standalone",
   "background_color": "#f4f7fb",
   "theme_color": "#00338D",
-  "icons": [
-    {
-      "src": "/icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml",
-      "purpose": "any maskable"
-    }
-  ]
+ "icons": [
+  {
+    "src": "/billshq-favicon.png",
+    "sizes": "1024x1024",
+    "type": "image/png",
+    "purpose": "any"
+  }
+]
 }
