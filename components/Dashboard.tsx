@@ -155,7 +155,7 @@ export default function Dashboard({ config }: { config: FanConfig }) {
 
         <article className="card wide">
           <h2>Season board</h2>
-          <div className="subtle">Edit the schedule in <code>lib/fanConfig.ts</code>.</div>
+          <div className="subtle">The full 2026-27 Buffalo Bills season schedule, week 18 tbd.</div>
           <div className="schedule-list">
             {config.schedule.map((g) => (
               <div className="schedule-item" key={`${g.week}-${g.opponent}`}>
