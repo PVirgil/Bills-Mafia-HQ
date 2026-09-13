@@ -48,7 +48,7 @@ export const fanConfig: FanConfig = {
   achievements: [
     { icon: "❄️", title: "Snow Game Certified", description: "Cold weather only makes it better." },
     { icon: "🦬", title: "Mafia Loyalist", description: "Optimism level: permanently elevated." },
-    { icon: "🏆", title: "Never Doubted Them", description: "Awarded retroactively after every comeback." }
+    { icon: "🏆", title: "Never Doubted Them", description: "Awarded after every comeback." }
   ],
 
   gameDayChecklist: [
