@@ -128,7 +128,10 @@ export default function Dashboard({ config }: { config: FanConfig }) {
         <article className="card">
           <h2>Prediction record</h2>
           <div className="subtle">Patrick&apos;s all-time HQ picks</div>
-          <div className="record">{config.predictionRecord.w}–{config.predictionRecord.l}<small>{config.predictionRecord.pct}% correct</small></div>
+          <div className="record">
+  {config.predictionRecord.w}<span className="record-dash">–</span>{config.predictionRecord.l}
+  <small>{config.predictionRecord.pct}% correct</small>
+</div>
         </article>
 
         <article className="card">
