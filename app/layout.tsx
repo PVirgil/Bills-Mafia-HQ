@@ -7,8 +7,8 @@ export const metadata: Metadata = {
   applicationName: "Patrick's Mafia HQ",
   manifest: "/manifest.webmanifest",
   icons: {
-    icon: "/icon.svg",
-    apple: "/icon.svg"
+    icon: "/billshq-favicon.png",
+    apple: "/billshq-favicon.png"
   }
 };
 
