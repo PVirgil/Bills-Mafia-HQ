@@ -20,7 +20,7 @@ export type FanConfig = {
 
 export const fanConfig: FanConfig = {
   fanName: "Patrick",
-  fanSince: 1994,
+  fanSince: 1978,
   favoritePlayer: "Josh Allen",
   motto: "Built for Sundays, snow games, fourth-quarter chaos, and believing this is the year.",
   predictionRecord: { w: 0, l: 0, pct: 0 },
